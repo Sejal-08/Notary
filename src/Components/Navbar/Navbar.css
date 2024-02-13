@@ -1,0 +1,57 @@
+.container{
+    width:1440px;
+    max-width: 100%;
+    margin:0 auto;
+}
+.logo{
+    margin-top: 14px;
+    margin-left: 135px;
+    width: 98px;
+    height: 85px;
+}
+.navbar{
+    display:flex;
+}
+.menu{
+   margin-top:48px;
+   margin-left: 758px;
+   list-style-type: none;
+    display:flex;
+    align-items: center;
+    gap:50px;
+    margin-left: 400px;
+    font-family: Work Sans;
+}
+.login{
+    display:flex;
+    gap:50px;
+    margin-left: 35px;
+    margin-top: 8px;
+}
+button{
+    height:42px;
+    width:120px;
+    margin-top: 36px;
+    background: #545EAF;
+    color:white;
+    border:none;
+    border-radius: 5px;
+}
+.image{
+   margin-top: 42px;
+    width: 31px;
+    height: 31px;
+
+}
+.home{
+    width: 46px;
+height: 19px;
+}
+.meeting{
+    width: 97px;
+height: 19px;
+}
+.earning{
+    width: 93px;
+height: 19px;
+}
